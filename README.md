@@ -28,5 +28,5 @@ Clone the repo and open the HTML file directly:
 
 ```bash
 git clone https://github.com/odingaval/Hackathon-portfolio-plp.git
-cd PLP-Portfolio-Project
+cd Hackathon-portfolio-plp
 # Open index.html in your browser
